@@ -1,0 +1,16 @@
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Calculator1.resources
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+E:\Projects\Windows-Form-App-Net-Framework\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
